@@ -1,0 +1,51 @@
+{
+  "id": "7cedb72d-f71f-4679-aa04-c33309f711d0",
+  "name": "red_cross_ambulance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "list",
+                  "top_element_style": "compact",
+                  "buttons": [
+                    {
+                      "title": "Contact Us",
+                      "type": "phone_number",
+                      "payload": "067410402005"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542182481,
+  "fallbackIntent": false,
+  "events": []
+}

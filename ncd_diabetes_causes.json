@@ -1,0 +1,34 @@
+{
+  "id": "5e5d9389-cf57-4684-9e3c-722d0e86fe04",
+  "name": "ncd_diabetes_causes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Causes of Diabetes:\n\n1. There’s a history of diabetes in your family\n2. You’re middle-aged or older\n3. You’re overweight or obese\n4. You’re middle-aged and have high blood pressure (hypertension)\n5. You’ve given birth to a child weighing more than 4.5kg, was diagnosed with gestational diabetes or have/had polycystic ovarian syndrome (PCOS)"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542166792,
+  "fallbackIntent": false,
+  "events": []
+}

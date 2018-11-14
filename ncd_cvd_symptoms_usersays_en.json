@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a030cbe9-6f25-4134-b844-af9862f0c800",
+    "data": [
+      {
+        "text": "CVD symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542165247
+  },
+  {
+    "id": "af73a287-b793-416e-bd94-f84cc15daa7b",
+    "data": [
+      {
+        "text": "Symptoms of cvd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1542165247
+  }
+]

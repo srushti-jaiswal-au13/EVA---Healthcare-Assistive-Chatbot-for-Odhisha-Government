@@ -1,0 +1,56 @@
+{
+  "id": "7176ff31-c433-49f5-9f4e-585794de919d",
+  "name": "ncd_stroke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Stroke",
+          "subtitle": "Click on the blue text to know more about stroke.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSiFBO5WwAlo3YA873QX1k6VoNSg8r-Zqct9jfnt_bC07hjBTtk",
+          "buttons": [
+            {
+              "text": "Click here!",
+              "postback": "https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any of thee blue tab! (କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଅଧିକ ସୂଚନା ପାଇଁ!)",
+          "replies": [
+            "About stroke (ଆଘାତ)",
+            "Symptoms of stroke",
+            "Causes of Strroke",
+            "Stroke Risk factors",
+            "Stroke complications",
+            "Stroke prevention"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542167294,
+  "fallbackIntent": false,
+  "events": []
+}

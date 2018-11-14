@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c2b3f4f7-72a7-4fc4-a838-66e8af748360",
+    "data": [
+      {
+        "text": "CVD (ହୃଦୟ ରୋଗ)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "77bee8f7-efe4-4e7f-9c6d-2fdad8541b4a",
+    "data": [
+      {
+        "text": "CVDs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542111424
+  },
+  {
+    "id": "5139bc79-946d-4f72-a2de-fc8f939b929b",
+    "data": [
+      {
+        "text": "CVD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542111424
+  },
+  {
+    "id": "6d3d6f16-05a0-47f6-88f8-451674ac851c",
+    "data": [
+      {
+        "text": "cardiovascular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542111424
+  },
+  {
+    "id": "7fc1ba80-7656-472c-9107-3d9481765236",
+    "data": [
+      {
+        "text": "Cardiovascular disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542111424
+  }
+]

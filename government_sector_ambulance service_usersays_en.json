@@ -1,0 +1,26 @@
+[
+  {
+    "id": "faf85709-7eb1-489b-88f4-9ac5d2645f5f",
+    "data": [
+      {
+        "text": "government sector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542180666
+  },
+  {
+    "id": "78614e9e-71f5-4158-bc17-43bf4880a15a",
+    "data": [
+      {
+        "text": "government sector ambulance service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542180666
+  }
+]

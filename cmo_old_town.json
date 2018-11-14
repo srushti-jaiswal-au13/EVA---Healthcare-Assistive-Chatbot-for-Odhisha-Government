@@ -1,0 +1,51 @@
+{
+  "id": "fa40e8fe-9882-4bb8-9292-fd8efa9d44b2",
+  "name": "cmo_old_town",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "list",
+                  "top_element_style": "compact",
+                  "buttons": [
+                    {
+                      "title": "Contact Municipalty Hospital",
+                      "type": "phone_number",
+                      "payload": "0674-2415237"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542181765,
+  "fallbackIntent": false,
+  "events": []
+}

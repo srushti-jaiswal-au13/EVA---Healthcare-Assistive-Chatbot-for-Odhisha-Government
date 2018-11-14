@@ -1,0 +1,56 @@
+{
+  "id": "92dc36df-1e67-439d-b321-8234123dbea7",
+  "name": "ncd_cancer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Cancer",
+          "subtitle": "Click on the blue text to know more about cancer.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTJK0oirEE6sHsFNEC8ZlPlHqqPnzsOztVJ5r8knboyabbXVjtRLw",
+          "buttons": [
+            {
+              "text": "Click here!",
+              "postback": "https://www.mayoclinic.org/diseases-conditions/cancer/symptoms-causes/syc-20370588"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any of the blue tab! (କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଅଧିକ ସୂଚନା ପାଇଁ!)",
+          "replies": [
+            "About cancer (କର୍କଟ)",
+            "Symptoms of cancer",
+            "Causes of cancer",
+            "Cancer risk factors",
+            "Cancer complications",
+            "Cancer prevention"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is a non-communicable disease that affects all ages. Greater than 30% of cancer is preventable via avoiding risk factors including: tobacco, being overweight or obesity, low fruit and vegetable intake, physical inactivity, alcohol, sexually transmitted infections, and air pollution. \n\nAs stated by the CDC in 2005, the three most common cancers among women are breast, lung and colorectal. \n\nThe three most common cancers among men are prostate, lung and colorectal. \n\nLung cancer is at the top of the list for cancer deaths in men and women."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542160105,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9226f8cf-0c77-4e29-b9d7-9adfcb20aa3d",
+  "name": "ncd_cvd_riskfactors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Risk factors for developing heart disease include:\n\n1. Age. \n2. Sex/Gender. \n3. Family history. \n4. Smoking. \n5. Certain chemotherapy drugs and radiation therapy for cancer. \n6. Poor diet. \n7. High blood pressure. \n8. High blood cholesterol levels. \n9. Diabetes. \n10. Obesity. \n11. Physical inactivity. \n12. Stress. \n13. Poor hygiene."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542165599,
+  "fallbackIntent": false,
+  "events": []
+}

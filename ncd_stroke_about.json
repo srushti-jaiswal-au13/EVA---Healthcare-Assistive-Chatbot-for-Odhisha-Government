@@ -1,0 +1,34 @@
+{
+  "id": "61aed603-eac0-44f9-8e7b-798a2f9027aa",
+  "name": "ncd_stroke_about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "A stroke occurs when the blood supply to part of your brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. Within minutes, brain cells begin to die.\n\nA stroke is a medical emergency. Prompt treatment is crucial. Early action can minimize brain damage and potential complications.\n\nThe good news is that strokes can be treated and prevented."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542167378,
+  "fallbackIntent": false,
+  "events": []
+}

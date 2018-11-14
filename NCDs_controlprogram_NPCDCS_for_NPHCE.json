@@ -1,0 +1,42 @@
+{
+  "id": "9dc21bc3-5e10-4450-9e1e-8802884b5018",
+  "name": "NCDs_controlprogram_NPCDCS_for_NPHCE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NPCDCS for NPHCE",
+          "subtitle": "NPCDCS FOR HEALTH CARE OF ELDERLY",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdp4T9QPF4kc1kQJV-nkFfRcIOyQLqbkWfehzdv7iudnIQ84QL",
+          "buttons": [
+            {
+              "text": "Download PDF",
+              "postback": "http://www.dhsodisha.nic.in/sites/default/files/Non-communicable%20Disease.pdf"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542169933,
+  "fallbackIntent": false,
+  "events": []
+}

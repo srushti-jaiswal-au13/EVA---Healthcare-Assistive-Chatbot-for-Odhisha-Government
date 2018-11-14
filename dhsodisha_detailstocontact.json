@@ -1,0 +1,34 @@
+{
+  "id": "b395e55d-6701-4c28-952f-86af5842aaef",
+  "name": "dhsodisha_detailstocontact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Name :Dr. DR. Braja Kishore Brahma\n\nDesignation: Director of Health Services, Odisha\n\nOrganisation : Health \u0026 Family Welfare\n\nAddress- 2nd Floor, Health Directorate, HOD Building, Bhubaneswar, Odisha, PIN- 751001\n\nE-mail I.D- dhsodisha@gmail.com\n\nPhone - 0674- 2391536"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542105102,
+  "fallbackIntent": false,
+  "events": []
+}

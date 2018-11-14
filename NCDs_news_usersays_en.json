@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b9cbb889-deb9-48f1-8280-e2cde1b63005",
+    "data": [
+      {
+        "text": "non communicable diseases news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542172934
+  },
+  {
+    "id": "3f857fa2-6bab-44dc-b7c7-25f93283c930",
+    "data": [
+      {
+        "text": "news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542172934
+  },
+  {
+    "id": "beaee155-5da4-42f7-b25b-e98876adf093",
+    "data": [
+      {
+        "text": "NCDs news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542172934
+  }
+]

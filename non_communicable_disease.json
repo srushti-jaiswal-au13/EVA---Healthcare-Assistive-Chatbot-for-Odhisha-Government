@@ -1,0 +1,46 @@
+{
+  "id": "87f1fe4d-8c71-4213-afc7-30af1f109cb4",
+  "name": "non_communicable_disease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "NCD is a medical condition or disease that is not caused by infectious agents. NCDs can refer to chronic diseases which last for long periods of time and progress slowly. Sometimes, NCDs result in rapid deaths. This are the top NCDs in Odisha click on any of the blue tab to know more about it."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select one to know more about it.",
+          "replies": [
+            "Cancer (କର୍କଟ)",
+            "Diabetes (ମଧୁମେହ)",
+            "CVD (ହୃଦୟ ରୋଗ)",
+            "Stroke (ଆଘାତ)"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542159574,
+  "fallbackIntent": false,
+  "events": []
+}

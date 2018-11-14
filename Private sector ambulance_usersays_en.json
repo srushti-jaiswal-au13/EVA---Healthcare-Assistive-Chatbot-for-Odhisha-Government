@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eb1bb6dd-035d-42be-8eb0-f26901efa2cf",
+    "data": [
+      {
+        "text": "Private sector ambulance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542183085
+  },
+  {
+    "id": "bc589191-f7d1-41f3-9546-1a7c73cfbaba",
+    "data": [
+      {
+        "text": "Private sector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542183085
+  }
+]

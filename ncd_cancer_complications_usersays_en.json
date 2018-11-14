@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2fd2c0f0-7eb9-427d-b1b5-32fdfdeb5201",
+    "data": [
+      {
+        "text": "complications in cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542161683
+  },
+  {
+    "id": "2c40565c-ca76-412d-9da1-a73e79c1553e",
+    "data": [
+      {
+        "text": "cancer complications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542161683
+  }
+]

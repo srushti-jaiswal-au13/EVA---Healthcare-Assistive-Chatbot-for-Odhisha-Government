@@ -1,0 +1,40 @@
+{
+  "id": "2243bd4b-5fce-4af5-9ed1-849c2041ccf1",
+  "name": "government_sector_ambulance service",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select Area.",
+          "replies": [
+            "Capital Hospital",
+            "CMO, Old town",
+            "Unit-6",
+            "RedCross"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542180666,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0cfb02f3-cc6f-4645-88ac-9ade790ab935",
+    "data": [
+      {
+        "text": "CMO, ",
+        "userDefined": false
+      },
+      {
+        "text": "Old town",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181518
+  },
+  {
+    "id": "3d4930b6-8109-4d19-b239-1e60614bdebd",
+    "data": [
+      {
+        "text": "CMO,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181518
+  },
+  {
+    "id": "c703ffb3-381a-4e8d-8248-17ff3ff33f01",
+    "data": [
+      {
+        "text": "Old town",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181518
+  },
+  {
+    "id": "586eaa31-166c-45bf-b7bf-1d35e3f4a64a",
+    "data": [
+      {
+        "text": "CMO, ",
+        "userDefined": false
+      },
+      {
+        "text": "Old town",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Bhubaneswar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181518
+  },
+  {
+    "id": "cab1132b-846f-48b6-87ae-191b1e4db9e3",
+    "data": [
+      {
+        "text": "Municipality Hospital, CMO, ",
+        "userDefined": false
+      },
+      {
+        "text": "Old town",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Bhubaneswar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181518
+  }
+]

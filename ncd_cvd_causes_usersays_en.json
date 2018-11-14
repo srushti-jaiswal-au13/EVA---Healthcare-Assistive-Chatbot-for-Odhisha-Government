@@ -1,0 +1,26 @@
+[
+  {
+    "id": "72826d96-c195-475e-9964-011ff78a6e38",
+    "data": [
+      {
+        "text": "CVD causes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542165340
+  },
+  {
+    "id": "8dac25d7-8767-4cce-8aaa-b12a67b460b8",
+    "data": [
+      {
+        "text": "Causes of CVD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542165340
+  }
+]

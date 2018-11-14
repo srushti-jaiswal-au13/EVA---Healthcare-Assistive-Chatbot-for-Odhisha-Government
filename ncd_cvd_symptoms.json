@@ -1,0 +1,34 @@
+{
+  "id": "9d2194e1-66bd-4c56-acaa-f22a33560482",
+  "name": "ncd_cvd_symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Cardiovascular disease symptoms may be different for men and women. \n\nSymptoms can include:\n\n1. Chest pain, chest tightness, chest pressure and chest discomfort (angina)\n2. Shortness of breath\n3. Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed\n4. Pain in the neck, jaw, throat, upper abdomen or back"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542165247,
+  "fallbackIntent": false,
+  "events": []
+}

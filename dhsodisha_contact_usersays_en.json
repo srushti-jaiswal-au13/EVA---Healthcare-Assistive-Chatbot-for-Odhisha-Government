@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dbae4eaf-bd7d-45cb-97a8-fb5c764d5a71",
+    "data": [
+      {
+        "text": "contact number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542104492
+  },
+  {
+    "id": "ac635ad0-c4f7-477a-ae2f-ca645cd22ca2",
+    "data": [
+      {
+        "text": "customer care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542104492
+  },
+  {
+    "id": "4ae29452-0a5a-4b19-835a-c71c215ec9e2",
+    "data": [
+      {
+        "text": "contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542104492
+  },
+  {
+    "id": "f2e0998a-74f2-410b-b14c-50b941d87993",
+    "data": [
+      {
+        "text": "contact dhs odisha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542104492
+  }
+]

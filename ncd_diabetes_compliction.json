@@ -1,0 +1,34 @@
+{
+  "id": "9a694788-b715-4185-8921-9bb4f5faee2c",
+  "name": "ncd_diabetes_compliction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Complications in diabetes:\n\n1. Cardiovascular disease\n2. Nerve damage \n3. Kidney damage\n4. Eye damage\n5. Foot damage. \n6. Skin conditions. \n7. Hearing impairment.\n8. Alzheimer\u0027s disease.\n9. Depression."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542166384,
+  "fallbackIntent": false,
+  "events": []
+}

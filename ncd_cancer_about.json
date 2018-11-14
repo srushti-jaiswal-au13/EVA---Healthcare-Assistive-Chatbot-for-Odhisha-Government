@@ -1,0 +1,34 @@
+{
+  "id": "9b0681d3-da5a-44db-98da-62d617403755",
+  "name": "ncd_cancer_about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "It is a non-communicable disease that affects all ages. Greater than 30% of cancer is preventable via avoiding risk factors including: tobacco, being overweight or obesity, low fruit and vegetable intake, physical inactivity, alcohol, sexually transmitted infections, and air pollution. \n\nAs stated by the CDC in 2005, the three most common cancers among women are breast, lung and colorectal. \n\nThe three most common cancers among men are prostate, lung and colorectal. \n\nLung cancer is at the top of the list for cancer deaths in men and women."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542160378,
+  "fallbackIntent": false,
+  "events": []
+}

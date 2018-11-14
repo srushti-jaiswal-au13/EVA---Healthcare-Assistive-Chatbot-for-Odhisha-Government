@@ -1,0 +1,34 @@
+{
+  "id": "038cc4ba-a135-4380-80eb-61c59864f416",
+  "name": "ncd_diabetes_prevention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Type 1 diabetes can\u0027t be prevented. However, the same healthy lifestyle choices that help treat prediabetes, type 2 diabetes and gestational diabetes can also help prevent them:\n\n1. Eat healthy food\n2. Get more physical activity\n3. Lose excess pounds"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542167016,
+  "fallbackIntent": false,
+  "events": []
+}

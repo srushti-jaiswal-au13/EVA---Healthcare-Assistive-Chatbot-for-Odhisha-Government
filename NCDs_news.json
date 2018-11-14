@@ -1,0 +1,112 @@
+{
+  "id": "9306a662-5638-4cf2-9c1a-f30fd73cd362",
+  "name": "NCDs_news",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "World Health Assembly progress on noncommunicable diseases and traditional medicine",
+          "subtitle": "WHO",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdp4T9QPF4kc1kQJV-nkFfRcIOyQLqbkWfehzdv7iudnIQ84QL",
+          "buttons": [
+            {
+              "text": "Read more!",
+              "postback": "http://www.who.int/mediacentre/news/releases/2014/WHA-20140523/en/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Non-communicable diseases account for 62 percent of deaths in India",
+          "subtitle": "India",
+          "imageUrl": "https://www.bumrungrad.com/getattachment/899bd7f8-a34a-4fcf-9ab2-ecbead8854be/image.jpg",
+          "buttons": [
+            {
+              "text": "Read news!",
+              "postback": "https://timesofindia.indiatimes.com/city/kochi/non-communicable-diseases-account-for-62-percent-of-deaths-in-india-say-experts/articleshow/66484806.cms"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Odisha kicks off community screening for 5 NCDs",
+          "subtitle": "Odisha",
+          "imageUrl": "http://health.odisha.gov.in/images/logo.jpg",
+          "buttons": [
+            {
+              "text": "Read news!",
+              "postback": "http://www.newindianexpress.com/states/odisha/2017/jul/19/odisha-kicks-off-community-screening-for-5-ncds-1630604.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Diabetes, cancer: Odisha top-5 State in country",
+          "subtitle": "Odisha",
+          "imageUrl": "https://www.bumrungrad.com/getattachment/899bd7f8-a34a-4fcf-9ab2-ecbead8854be/image.jpg",
+          "buttons": [
+            {
+              "text": "Read news!",
+              "postback": "https://www.dailypioneer.com/2017/state-editions/diabetes-cancer-odisha-top-5-state-in-country.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Health system preparedness in noncommunicable diseases: Findings from two states Odisha and Kerala in India",
+          "subtitle": "Odisha \u0026 Kerala",
+          "imageUrl": "http://health.odisha.gov.in/images/logo.jpg",
+          "buttons": [
+            {
+              "text": "Read news!",
+              "postback": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6069665/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "https://odishatv.in/health/who-urges-actions-against-non-communicable-diseases-240474",
+          "subtitle": "WHO",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdp4T9QPF4kc1kQJV-nkFfRcIOyQLqbkWfehzdv7iudnIQ84QL",
+          "buttons": [
+            {
+              "text": "Read more!",
+              "postback": "https://odishatv.in/health/who-urges-actions-against-non-communicable-diseases-240474"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542172977,
+  "fallbackIntent": false,
+  "events": []
+}

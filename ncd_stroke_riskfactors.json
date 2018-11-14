@@ -1,0 +1,34 @@
+{
+  "id": "05dd6210-e262-446c-be55-88c3c79dddb2",
+  "name": "ncd_stroke_riskfactors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Risk factors in Stroke:\n\n1. Being overweight or obese\n2. Physical inactivity\n3. Heavy or binge drinking\n4. Use of illicit drugs such as cocaine and methamphetamines\n5.Blood pressure readings higher than 120/80 millimeters of mercury (mm Hg)\n6.Cigarette smoking or exposure to secondhand smoke\n7.High cholesterol\n8. Diabetes\n9. Obstructive sleep apnea\n10.Cardiovascular disease, including heart failure, heart defects, heart infection or abnormal heart rhythm\n11. Personal or family history of stroke, heart attack or transient ischemic attack."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542167817,
+  "fallbackIntent": false,
+  "events": []
+}

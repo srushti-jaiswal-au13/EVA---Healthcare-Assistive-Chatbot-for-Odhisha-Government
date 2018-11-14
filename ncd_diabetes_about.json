@@ -1,0 +1,34 @@
+{
+  "id": "df5e0304-b15c-48fc-a5bf-742dc2c5fdcf",
+  "name": "ncd_diabetes_about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Diabetes mellitus refers to a group of diseases that affect how your body uses blood sugar (glucose). Glucose is vital to your health because it\u0027s an important source of energy for the cells that make up your muscles and tissues. It\u0027s also your brain\u0027s main source of fuel."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542166435,
+  "fallbackIntent": false,
+  "events": []
+}

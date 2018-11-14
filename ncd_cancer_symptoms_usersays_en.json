@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9462434e-4e11-4057-b1a3-f9a84f0e9ccc",
+    "data": [
+      {
+        "text": "Symptoms of cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542160613
+  },
+  {
+    "id": "60b809aa-01ca-42c1-a181-809ffb126399",
+    "data": [
+      {
+        "text": "Cancer symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542160613
+  }
+]

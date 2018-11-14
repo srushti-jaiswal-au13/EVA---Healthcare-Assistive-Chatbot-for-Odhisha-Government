@@ -1,0 +1,42 @@
+{
+  "id": "aa963696-330d-4c7d-adfb-d5119e25e139",
+  "name": "dhsodisha_website",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "DHS Odisha",
+          "subtitle": "Department of Health \u0026 Family Welfare",
+          "imageUrl": "https://odishanewsinsight.com/wp-content/uploads/2017/12/HEALTH-FAMILY-WELFARE-Department-of-Odisha.jpg",
+          "buttons": [
+            {
+              "text": "Click hereto visit website!",
+              "postback": "http://www.dhsodisha.nic.in/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542103118,
+  "fallbackIntent": false,
+  "events": []
+}

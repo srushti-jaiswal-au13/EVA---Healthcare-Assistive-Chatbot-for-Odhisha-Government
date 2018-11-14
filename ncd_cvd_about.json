@@ -1,0 +1,34 @@
+{
+  "id": "c91e76d4-aeba-4fe1-a1a1-44cd985d46d2",
+  "name": "ncd_cvd_about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The term \"heart disease\" is often used interchangeably with the term \"cardiovascular disease.\" Cardiovascular disease generally refers to conditions that involve narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or stroke. Other heart conditions, such as those that affect your heart\u0027s muscle, valves or rhythm, also are considered forms of heart disease."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542180194,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bc707a0c-30af-4f12-9031-4670b5c00f80",
+    "data": [
+      {
+        "text": "NCDs (ଆସଂକ୍ରମକ ରୋଗ)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c43667b9-9f4f-4010-b20e-94c15a56e879",
+    "data": [
+      {
+        "text": "Non-communicable disease in ",
+        "userDefined": false
+      },
+      {
+        "text": "Odisha",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542106302
+  },
+  {
+    "id": "29c1c5ce-5f14-4c37-8f95-907437073efa",
+    "data": [
+      {
+        "text": "What is Non-communicable disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542106302
+  },
+  {
+    "id": "e53a89a2-81d4-47bf-a5bf-23a31204c372",
+    "data": [
+      {
+        "text": "NCDs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542106302
+  },
+  {
+    "id": "0226d01b-1d06-47ed-9f36-a0b7b62b7f25",
+    "data": [
+      {
+        "text": "Non-communicable disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542106302
+  },
+  {
+    "id": "3debd224-ae12-4109-9e84-4e396a5f5b42",
+    "data": [
+      {
+        "text": "NCD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542106302
+  }
+]

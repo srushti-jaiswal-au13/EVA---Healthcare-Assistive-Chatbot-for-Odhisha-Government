@@ -1,0 +1,56 @@
+{
+  "id": "50e47cc7-2e03-49d3-a65a-6d86551f8115",
+  "name": "ncd_cardiovascular_disease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Cardiovascular disease (CVD)",
+          "subtitle": "Click on the blue text to know more about CVD.",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQ8wwCNKyLlLXEjKi8YOo0eQLXkhH8QmmfvLH1jcilK44wIl2jC",
+          "buttons": [
+            {
+              "text": "Click here!",
+              "postback": "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any of the blue tab! (କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଅଧିକ ସୂଚନା ପାଇଁ!)",
+          "replies": [
+            "About CVD (ହୃଦୟ ରୋଗ)",
+            "Symptoms of CVD",
+            "Causes of CVD",
+            "CVD risk factors",
+            "CVD complications",
+            "CVD prevention"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The term \"heart disease\" is often used interchangeably with the term \"cardiovascular disease.\" Cardiovascular disease generally refers to conditions that involve narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or stroke. Other heart conditions, such as those that affect your heart\u0027s muscle, valves or rhythm, also are considered forms of heart disease."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542165000,
+  "fallbackIntent": false,
+  "events": []
+}

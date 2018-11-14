@@ -1,0 +1,56 @@
+{
+  "id": "767c8c7a-5804-492b-9960-c1af37722871",
+  "name": "eva_features",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Hello! My name is EVA \u0026 I\u0027m here to assist you regarding  Non-communicable diseases.\n\nନମସ୍କାର ମୋ ନାଁ ଏଭା। ମୁଁ ଏଇଠି ଆପଣଙ୍କର ସହାୟତା ପାଇଁ ଅଛି ଆସଂକ୍ରମକ ରୋଗ ର ସୂଚନା ପାଇଁ"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any of the blue tab! (କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଅଧିକ ସୂଚନା ପାଇଁ!)",
+          "replies": [
+            "DHS Odisha website",
+            "DHS Odisha Contact",
+            "Contact Us!",
+            "NCDs (ଆସଂକ୍ରମକ ରୋଗ)",
+            "Cancer (କର୍କଟ)",
+            "CVD (ହୃଦୟ ରୋଗ)",
+            "Diabetes (ମଧୁମେହ)",
+            "Stroke (ଆଘାତ)",
+            "NCDs Control Program",
+            "NCDs News (ସମାଚାର)"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542176773,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ]
+}

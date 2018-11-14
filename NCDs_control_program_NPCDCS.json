@@ -1,0 +1,42 @@
+{
+  "id": "6c4bf90e-df30-4b25-aaf7-90a7d6285629",
+  "name": "NCDs_control_program_NPCDCS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NPCDCS",
+          "subtitle": "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular diseases and Stroke (NPCDCS)",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdp4T9QPF4kc1kQJV-nkFfRcIOyQLqbkWfehzdv7iudnIQ84QL",
+          "buttons": [
+            {
+              "text": "Download PDF",
+              "postback": "http://www.dhsodisha.nic.in/sites/default/files/Non-Communicable_Diseases.pdf"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542169841,
+  "fallbackIntent": false,
+  "events": []
+}

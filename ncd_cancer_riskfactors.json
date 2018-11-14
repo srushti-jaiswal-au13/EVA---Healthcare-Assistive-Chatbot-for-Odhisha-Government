@@ -1,0 +1,34 @@
+{
+  "id": "4387f1d5-f7e3-455b-8b56-61a6b3a99b21",
+  "name": "ncd_cancer_riskfactors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "While doctors have an idea of what may increase your risk of cancer, the majority of cancers occur in people who don\u0027t have any known risk factors. Factors known to increase your risk of cancer include:\n\n1. Your age\n2. Your habits\n3. Your family history\n4. Your health conditions\n5. Your Environment"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542161288,
+  "fallbackIntent": false,
+  "events": []
+}

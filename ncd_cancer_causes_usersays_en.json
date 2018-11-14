@@ -1,0 +1,26 @@
+[
+  {
+    "id": "defc61dc-6d82-4acb-8ffa-30b35994f86a",
+    "data": [
+      {
+        "text": "cancer causes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542160972
+  },
+  {
+    "id": "19d037de-7e3f-474b-9335-a8ce97c63e9e",
+    "data": [
+      {
+        "text": "causes of cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542160972
+  }
+]

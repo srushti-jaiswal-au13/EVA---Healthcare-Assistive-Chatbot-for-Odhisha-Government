@@ -1,0 +1,42 @@
+{
+  "id": "24d4e12c-2e9f-4141-84c9-1e3bc95fbfcf",
+  "name": "NCDs_control_program_NPCB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NPCB",
+          "subtitle": "NATIONAL PROGRAMME FOR CONTROL OF BLINDNESS (NPCB)",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSdp4T9QPF4kc1kQJV-nkFfRcIOyQLqbkWfehzdv7iudnIQ84QL",
+          "buttons": [
+            {
+              "text": "Download PDF",
+              "postback": "http://www.dhsodisha.nic.in/sites/default/files/National_Programme_for_control_of_Blindness.pdf"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542169745,
+  "fallbackIntent": false,
+  "events": []
+}

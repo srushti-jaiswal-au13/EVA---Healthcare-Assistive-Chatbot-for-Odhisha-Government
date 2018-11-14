@@ -1,0 +1,53 @@
+{
+  "id": "799daca2-ad31-4422-98f4-169c1369dd1d",
+  "name": "ncd_control_program",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NCDs Contol Program",
+          "subtitle": "Odisha Government",
+          "imageUrl": "https://www.bumrungrad.com/getattachment/899bd7f8-a34a-4fcf-9ab2-ecbead8854be/image.jpg",
+          "buttons": [
+            {
+              "text": "Click here!",
+              "postback": "http://www.dhsodisha.nic.in/?q\u003dnon-communicable-diseases"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any of the blue tab to know more about a particular NCDs control program! (କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଅଧିକ ସୂଚନା ପାଇଁ!)",
+          "replies": [
+            "NPCDCS for NPHCE",
+            "NPCDCS",
+            "NPCB"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542168846,
+  "fallbackIntent": false,
+  "events": []
+}

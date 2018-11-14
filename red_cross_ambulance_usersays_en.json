@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4cd9a5bc-8236-4525-a9f3-1632bc4edfb6",
+    "data": [
+      {
+        "text": "RedCross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542182468
+  },
+  {
+    "id": "986d87cf-fa56-402c-9c77-41bd5d659caa",
+    "data": [
+      {
+        "text": "RedCross, Bhubaneswar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542182468
+  }
+]

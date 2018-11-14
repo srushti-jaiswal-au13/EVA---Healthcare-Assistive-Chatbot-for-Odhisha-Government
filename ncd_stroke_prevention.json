@@ -1,0 +1,34 @@
+{
+  "id": "a6047402-74bc-404a-ac0b-855df82a2ef6",
+  "name": "ncd_stroke_prevention",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Many stroke prevention strategies are the same as strategies to prevent heart disease. In general, healthy lifestyle recommendations include:\n\n1. Controlling high blood pressure (hypertension). \n2. managing stress,  and limiting the amount of sodium and alcohol \n3. Lowering the amount of cholesterol and saturated fat in your diet.\n4. Quitting tobacco use. \n5. Controlling diabetes. \n6. Maintaining a healthy weight. \n7. Eating a diet rich in fruits and vegetables. \n8. Exercising regularly. \n9. Drinking alcohol in moderation, if at all. \n10. Treating OSA. \n11. Avoiding illegal drugs."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542168293,
+  "fallbackIntent": false,
+  "events": []
+}
